@@ -95,7 +95,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 .va-color-picker-button-inner {
   height: 15px;
   line-height: 1;

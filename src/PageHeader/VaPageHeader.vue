@@ -53,7 +53,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 .va-page-header {
   margin-top: 24px;
   margin-bottom: 16px;

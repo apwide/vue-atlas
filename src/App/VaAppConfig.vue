@@ -477,7 +477,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 .themeModalBody {
   hr {
     margin-top: 0px;

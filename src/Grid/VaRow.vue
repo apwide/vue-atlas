@@ -30,7 +30,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 @function rem($pixels, $context: $browser-context) {
   @if (unitless($pixels)) {
     $pixels: $pixels * 1px;

@@ -188,7 +188,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 .va-pagination {
   display: flex;
   justify-content: space-around;
